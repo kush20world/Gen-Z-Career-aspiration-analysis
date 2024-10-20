@@ -1,0 +1,36 @@
+ 1.What is your gender identity? 
+2.How old are you?
+3.Where do you currently live? 
+--------
+4.What is your highest level of education?
+
+
+5.What was your major or field of study?
+6.How many years of work experience do you have?
+------------
+7.Rank the following factors in order of importance to you when choosing a career: Salary, Job Security, Work-Life Balance, Personal Growth, Social Impact.
+8.In which industry would you like to work? 
+9.What type of company culture is most appealing to you?
+10.How do you feel about remote work? 
+-------------
+11.How do you envision your career path evolving in the next 5-10 years?
+12.What industries or technologies do you believe will be most important in the future?
+13.How do you see your work-life balance changing in the future?
+14.How do you hope your career will contribute to society or the world?
+15.Do you plan to pursue further education (e.g., graduate degree, certifications)? If so, why?
+--------------
+16.Are you currently employed? If yes, what is your current job title?
+17.Are you actively searching for a new job? If yes, what are your main challenges in the job search process?
+-------------
+ 18.How important is it to you that your employer shares your values and beliefs? (Scale of 1-5)
+19.How important is it to you that your workplace promotes diversity and inclusion? (Scale of 1-5)
+20.How important is flexibility (e.g., remote work, flexible hours) to you in a job? (Scale of 1-5)
+------------------
+21.How do you think AI and automation will impact the job market and your career?
+22.What digital skills do you believe will be most valuable in the future?
+---------------
+23.How important is it to you that your company actively participates in addressing social and environmental issues? 
+24.What type of company culture do you look for? 
+25.Do you think employers understand your generation's career expectations?
+
+
